@@ -42,7 +42,8 @@ The project is modular and easy to extend for real-world scenarios such as:
 | **EC2 Instance** | Virtual machine for compute workloads |
 | **DynamoDB Table** | NoSQL database for structured data |
 
-Architecture
+Architecture:
+
 ![image](https://github.com/user-attachments/assets/fcbf20ea-4e73-47d1-9331-e3921b8e11f9)
 
 
