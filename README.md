@@ -47,7 +47,8 @@ The project is modular and easy to extend for real-world scenarios such as:
 Architecture
 ![image](https://github.com/user-attachments/assets/fcbf20ea-4e73-47d1-9331-e3921b8e11f9)
 
+
 Terraform Plan Output
 ![image](https://github.com/user-attachments/assets/833b88d1-2d14-4f65-ad18-c7f5a07d7b33)
-![image](https://github.com/user-attachments/assets/833b88d1-2d14-4f65-ad18-c7f5a07d7b33)
+
 
