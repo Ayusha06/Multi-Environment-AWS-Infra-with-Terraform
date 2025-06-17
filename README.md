@@ -1,5 +1,3 @@
-![Screenshot 2025-06-17 162731](https://github.com/user-attachments/assets/10d0c185-740c-4431-b8dd-8993af58f634)![Screenshot 2025-06-17 162731](https://github.com/user-attachments/assets/10d0c185-740c-4431-b8dd-8993af58f634)# 📦 Multi-Environment AWS Infrastructure with Terraform
-
 ## 📖 Overview
 
 This project demonstrates how to provision a **multi-environment (Development, Staging, Production) AWS infrastructure** using **Terraform**.  
